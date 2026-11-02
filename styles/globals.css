@@ -1,0 +1,5 @@
+@import "../node_modules/@dub/tailwind-config/themes.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
